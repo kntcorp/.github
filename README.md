@@ -1,1 +1,1 @@
-# .github
+# kntcorp website project
